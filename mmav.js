@@ -19,7 +19,7 @@ https://337tc.com url script-response-body https://raw.githubusercontent.com/Yu9
 #https://www.fz320kahx00nj.com url script-response-body https://gist.githubusercontent.com/Yu9191/1c1209c15f83db3f7c647535d74ca7a3/raw/mmav.js
 https://www.fz320kahx00nj.com url script-response-body https://raw.githubusercontent.com/Yu9191/Rewrite/refs/heads/main/mmav.js
 [mitm]
-hostname = *.xianlh.top, 337tc.com, www.fz320kahx00nj.com, bvbvbvssu.a63qv1sy.com
+hostname = *.xianlh.top, 337tc.com, cnqcqzgu8bs9k.com, bvbvbvssu.a63qv1sy.com
 */
 //11.30 03:01
 
